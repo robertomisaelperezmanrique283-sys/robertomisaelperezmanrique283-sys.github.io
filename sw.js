@@ -1,5 +1,5 @@
 const CACHE = "mideli-control-premium-v2";
-const PRECACHE=["/assets/Reports-C_Q8x6Au.js","/assets/index-DG3kiysj.js","/assets/index-BBeM3EcQ.css",
+const PRECACHE=["/assets/index-B6BHSnkO.js","/assets/Reports-C_bY28LX.js","/assets/index-BBeM3EcQ.css",
   "/",
   "/index.html",
   "/manifest.webmanifest",
