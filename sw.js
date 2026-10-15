@@ -1,5 +1,5 @@
 const CACHE = "mideli-control-premium-v2";
-const PRECACHE=["/assets/index-Dvut4pIu.js","/assets/CountsView-CCI0I516.js","/assets/index-DGi1OHMC.css","/assets/InventoryView-QEN7GXXn.js","/assets/SalesView-R26-8MQJ.js","/assets/ShiftView-Cxpg3-I5.js","/assets/ProductEditor-ZD_TLPVT.js","/assets/EmptyState-BVaOEaVJ.js","/assets/shield-check-eTg4zc3c.js","/assets/TeamView-Duk_3nf_.js","/assets/Reports-BjESTzIl.js","/assets/gem-BP3eGJu4.js","/assets/download-B1Xfkno6.js","/assets/Settings-CxKztX2y.js",
+const PRECACHE=["/assets/index-DTmZF_XY.css","/assets/index-JziHlh1R.js","/assets/CountsView-CwLkcO-E.js","/assets/InventoryView-DWjvy7lg.js","/assets/SalesView-CNLv1BnF.js","/assets/ShiftView-DLQde6XT.js","/assets/EmptyState-Bs6JLALE.js","/assets/ProductEditor-CakdpgHx.js","/assets/TeamView-D0HXocV5.js","/assets/shield-check-e7fSlU7N.js","/assets/Reports-CWX4bYXq.js","/assets/gem-CMx9g5rO.js","/assets/download-BwWNlsPd.js","/assets/Settings-DuxiF92c.js",
   "/",
   "/index.html",
   "/manifest.webmanifest",
